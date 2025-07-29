@@ -178,8 +178,8 @@ p.note { display: none; }
 <h2><span class="yellow">呼びかけに応じて400ml献血実施</span></h2>
 <a href="20250729_006.JPG" target="_blank"><img src="20250729_006.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">そのままの流れで、新しいG-Shock買っちゃいました<br>心拍計やGセンサーで睡眠記録まで取っちゃいますね！</span></h2>
-<a href="20250729_007.JPG" target="_blank"><img src="20250729_007.JPG" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">そのままの流れで、新しいG-Shock買っちゃいました<br>心拍計やGセンサーで睡眠記録まで取っちゃいますね！<br>画像クリックでカシオのHPに飛びます↓</span></h2>
+<a href="https://www.casio.com/jp/watches/gshock/product.DW-H5600-1/" target="_blank"><img src="20250729_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">28日は鬼怒川グリーンパークのお花達</span></h2>
 <a href="20250729_008.JPG" target="_blank"><img src="20250729_008.JPG" alt="サンプル画像" class="responsive-media"></a>
