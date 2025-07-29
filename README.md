@@ -189,7 +189,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">お空には夏の雲が湧き上がってます</span></h2>
 <a href="20250729_012.JPG" target="_blank"><img src="20250729_012.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250729_013.JPG" target="_blank"><img src="20250729_013.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ここからの眺めはなかなかのモノ<br>画像クリックでGoogleMapsに飛びます↓</span></h2>
+<a href="https://www.google.com/maps/@36.5608125,139.9340194,3a,26.2y,79.14h,89.69t/data=!3m7!1e1!3m5!1sxi4o7yp9HMBdcvKO7oBiKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.3100000000000023%26panoid%3Dxi4o7yp9HMBdcvKO7oBiKQ%26yaw%3D79.14!7i16384!8i8192?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20250729_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250729_014.JPG" target="_blank"><img src="20250729_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250729_015.JPG" target="_blank"><img src="20250729_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250729_016.JPG" target="_blank"><img src="20250729_016.JPG" alt="サンプル画像" class="responsive-media"></a>
